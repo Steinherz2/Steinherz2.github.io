@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "David's Projects"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "David Riedinger"
+description              : &description "I am a physics student in my sixth semester at the University of Rostock, with a strong interest in the intersection of theoretical physics and modern computational methods. My work focuses on developing a deeper understanding of physical systems through both analytical approaches and numerical techniques. This portfolio showcases my academic projects, with a particular emphasis on applications of machine learning to physics. I am currently working on a project involving the Schrödinger equation, exploring how data-driven methods can be used to model and analyze quantum systems. In addition to my academic work, this site provides access to my other projects, technical skills, and professional profiles. It serves as a central hub for my ongoing development in physics, programming, and machine learning."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Steinherz2.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "David Riedinger"
   pronouns         : he/him # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a physics student of the University of Rostock and I'm interested in ML techniques."
   location         : "Rostock, Germany"
   employer         : "University Rostock"
-  url              : "https://Steinherz2.github.io" # URL
+  uri              : "https://Steinherz2.github.io" # URL
   email            : "davy_reed@yahoo.com" 
 
   # Academic websites
